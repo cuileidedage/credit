@@ -11,6 +11,6 @@ public class HelloWordController {
     @PostMapping("/helloworld")
     public String HelloWorld(){
          //System.out.println("HelloWorld");
-        return  "hello   world";
+        return  "小伙子 你好啊！";
     }
 }
